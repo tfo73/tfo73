@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=tfo73&icon=0&color=12)](https://visitcount.itsvg.in)
 
