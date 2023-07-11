@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tfo73&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tfo73&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![snake gif](https://github.com/tfo73/tfo73/blob/output/github-contribution-grid-snake.gif)
-
 <img alt="snake eating my contribution" src="https://github.com/tfo73/tfo73/blob/output/github-contribution-grid-snake.svg">
+
+https://github.com/tfo73/tfo73/blob/output/github-contribution-grid-snake.svg
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tfo73&icon=0&color=12)](https://visitcount.itsvg.in)
