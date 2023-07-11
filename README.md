@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 <img alt="snake eating my contribution" src="https://github.com/tfo73/tfo73/blob/output/github-contribution-grid-snake.svg">
 
-https://github.com/tfo73/tfo73/blob/output/github-contribution-grid-snake.svg
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tfo73&icon=0&color=12)](https://visitcount.itsvg.in)
 
