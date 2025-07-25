@@ -3,12 +3,12 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://codepen.io/tfo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tfo73" height="30" width="40" /></a>
+<a href="https://instagram.com/borafazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="borafazli" height="30" width="40" /></a>
 <a href="https://twitter.com/borafazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="borafazli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/borafazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borafazli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tfo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tfo73" height="30" width="40" /></a>
-<a href="https://instagram.com/borafazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="borafazli" height="30" width="40" /></a>
 <a href="https://medium.com/@borafazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@borafazli" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tfo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tfo73" height="30" width="40" /></a>
+<a href="https://codepen.io/tfo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tfo73" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tfo73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tfo73" height="30" width="40" /></a>
 </p>
 
